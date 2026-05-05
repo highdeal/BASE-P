@@ -1,0 +1,10 @@
+{
+  "name": "Base Hardhat Project",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["nomicfoundation.hardhat-solidity", "esbenp.prettier-vscode"]
+    }
+  }
+}

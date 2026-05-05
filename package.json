@@ -1,0 +1,26 @@
+{
+  "name": "base-p",
+  "version": "1.0.0",
+  "description": "new on base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highdeal/BASE-P.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/highdeal/BASE-P/issues"
+  },
+  "homepage": "https://github.com/highdeal/BASE-P#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "dotenv": "^17.4.2",
+    "hardhat": "^3.4.4"
+  }
+}
